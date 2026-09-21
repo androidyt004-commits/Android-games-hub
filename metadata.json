@@ -1,0 +1,6 @@
+{
+  "name": "ANDROID GAMEHUB",
+  "description": "A modern universal gaming information hub covering all types of games with verified specs, genres, platforms, and release details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
